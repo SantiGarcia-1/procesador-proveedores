@@ -1,0 +1,11 @@
+{
+    "python.terminal.useEnvFile": true,
+    "liveServer.settings.ignoreFiles": [
+        "**/*.db",
+        "**/*.db-journal",
+        "**/*.db-wal",
+        "**/*.db-shm",
+        "**/*.sqlite",
+        "**/*.xlsx"
+    ]
+}

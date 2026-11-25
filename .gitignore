@@ -61,6 +61,9 @@ cover/
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
+backend/proveedores.db
+backend/proveedores.db-shm
+backend/proveedores.db-wal
 
 # Flask stuff:
 instance/

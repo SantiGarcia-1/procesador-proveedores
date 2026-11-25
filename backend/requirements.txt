@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pdfplumber
+google-genai
+pydantic
+pandas
+openpyxl
+python-dotenv
